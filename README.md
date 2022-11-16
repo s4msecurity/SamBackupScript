@@ -4,6 +4,6 @@
 <br>
 Importance of taking backup in Microsoft SQL Server and ready backup script.
 <h2>For Detail</h2>
-Link: https://www.s4msecurity.com/2020/12/sqlde-backup-alma-ve-onemi.html#more
+Link: https://www.s4msecurity.com/2020/12/24/sqlde-backup-alma-ve-onemi/
 <hr>
 Usage example: Exec ZZ_BACKUPSCRIPT 'C:\\...\\[directory_name]\\'
